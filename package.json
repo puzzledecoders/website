@@ -12,7 +12,7 @@
     "react-scripts": "4.0.0",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://puzzledecoders.github.io",
+  "homepage": "https://puzzledecoders.github.io/website",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
